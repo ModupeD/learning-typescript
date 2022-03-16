@@ -1,0 +1,23 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModupeD/learning-typescript.git"
+  },
+  "author": "ModupeD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModupeD/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/ModupeD/learning-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
